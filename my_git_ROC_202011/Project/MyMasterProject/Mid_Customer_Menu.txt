@@ -1,0 +1,11 @@
+-d ____________________________________________
+-d  
+-d Customer Menu:
+-d Please select from the following:
+-d  
+-n Sign out.
+-n Apply for an account.
+-n List my available accounts.
+-d ____________________________________________
+-d  
+-d >

@@ -1,0 +1,15 @@
+-d ____________________________________________
+-d  
+-d Customer Menu:
+-d Please select from the following:
+-d  
+-n Sign out.
+-n Apply for an account.
+-n List my available accounts.
+-n List the balance of an account.
+-n Withdraw or deposit to an account.
+-n Transfer money.
+-n Accept a transfer to my account.
+-d ____________________________________________
+-d  
+-d >

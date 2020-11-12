@@ -1,0 +1,2 @@
+module short_circuit {
+}

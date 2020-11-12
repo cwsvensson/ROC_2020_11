@@ -1,0 +1,14 @@
+-d ________________________________________________
+-d  
+-d Welcome to: Dengee Bolshoi Bank!
+-d Please select from the following:
+-d  
+-n Exit this program and maybe come back later.
+-a exit
+-n I am a current customer.
+-a newmenu login.txt
+-n I would like to become a customer.
+-a newmenu login_creation.txt
+-d ________________________________________________
+-d  
+-d >

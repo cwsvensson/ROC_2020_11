@@ -1,0 +1,12 @@
+-d ____________________________________________
+-d  
+-d Employee Menu:
+-d Please select from the following:
+-d  
+-n Sign out.
+-n View transaction logs.
+-n View customer accounts.
+-n Approve or reject pending customer accounts.
+-d ____________________________________________
+-d  
+-d >
